@@ -1,0 +1,3 @@
+2026-07-05 Sin nivel en la línea
+2026-07-05 ERROR Error reportado
+2026-07-05 WARNING Advertencia

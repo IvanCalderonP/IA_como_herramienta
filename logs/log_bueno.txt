@@ -1,0 +1,4 @@
+2026-07-05 INFO Inicio de la aplicación
+2026-07-05 WARNING Memoria alta
+2026-07-05 ERROR Fallo al conectar con la base de datos
+2026-07-05 INFO Proceso finalizado

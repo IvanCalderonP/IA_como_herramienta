@@ -1,0 +1,7 @@
+2026-07-05 INFO Inicio
+2026-07-05 WARNING Advertencia
+sin fecha ERROR Mensaje incompleto
+2026-07-05 ERROR Error crítico
+2026-02-30 INFO Fecha inválida
+
+2026-07-05  

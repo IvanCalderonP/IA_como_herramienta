@@ -1,0 +1,3 @@
+2026-13-05 INFO Fecha fuera de rango
+2026-07-05 ERROR Error en la validación
+2026-02-30 WARNING Fecha imposible
