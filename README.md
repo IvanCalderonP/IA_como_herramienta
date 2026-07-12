@@ -12,7 +12,7 @@ Este proyecto permite seleccionar un archivo de texto, leerlo línea por línea 
 1. Abre una terminal en la carpeta del proyecto.
 2. Ejecuta:
    ```bash
-   python main.py
+   python3.13.exe main.py
    ```
 3. Selecciona un archivo de texto desde el explorador o proporciona la ruta como argumento:
    ```bash
